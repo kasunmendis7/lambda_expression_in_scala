@@ -1,0 +1,399 @@
+2024.08.05 04:49:54 INFO  Started: Metals version 1.3.4 in folders '/mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7' for client Visual Studio Code 1.92.0.[0m
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@14d0274d]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@4c5e4a3d]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@14d0274d]
+2024.08.05 04:49:55 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.[0m
+2024.08.05 04:49:56 WARN  no build target for: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala[0m
+2024.08.05 04:49:56 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+Aug 05, 2024 4:49:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2024.08.05 04:49:55 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:49:58 INFO  Running List(/home/kasun_mendis/.local/share/coursier/bin/scala-cli, setup-ide, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7)[0m
+2024.08.05 04:49:58 INFO  Attempting to connect to the build server...[0m
+2024.08.05 04:49:58 INFO  Running BSP server List(/home/kasun_mendis/.local/share/coursier/bin/.scala-cli.aux, bsp, --json-options, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/.scala-build/ide-options-v2.json, --json-launcher-options, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/.scala-build/ide-launcher-options.json, --envs-file, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/.scala-build/ide-envs.json, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7)[0m
+2024.08.05 04:49:58 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/.metals/bsp.trace.json or /home/kasun_mendis/.cache/metals/bsp.trace.json[0m
+2024.08.05 04:49:59 INFO  BSP server: Starting compilation server[0m
+2024.08.05 04:49:59 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:49:59 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:49:59 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:49:59 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:49:59 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+Aug 05, 2024 4:50:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+Aug 05, 2024 4:50:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17
+2024.08.05 04:49:59 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:49:59 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:49:59 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+Aug 05, 2024 4:50:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22
+2024.08.05 04:49:59 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+Aug 05, 2024 4:50:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26
+2024.08.05 04:49:59 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:49:59 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:49:59 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:50:00 WARN  no build target for: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala[0m
+Aug 05, 2024 4:50:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 38
+2024.08.05 04:49:59 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:49:59 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:49:59 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:50:01 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:50:01 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:50:01 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:50:02 WARN  no build target for: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala[0m
+2024.08.05 04:50:03 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:50:03 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:50:03 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:50:04 WARN  no build target for: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala[0m
+2024.08.05 04:50:04 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:50:06 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:50:32 INFO  BSP server: Error: bloop.rifle.FailedToStartServerExitCodeException: Server failed with exit code 1[0m
+2024.08.05 04:50:32 INFO  BSP server: For more details, please see '/mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/.scala-build/stacktraces/1722813632-9003687139489690540.log'[0m
+2024.08.05 04:50:32 INFO  BSP server: Running[0m
+2024.08.05 04:50:32 INFO  BSP server:   scala-cli --power bloop output[0m
+2024.08.05 04:50:32 INFO  BSP server: might give more details.[0m
+2024.08.05 04:50:58 ERROR Timeout waiting for 'build/initialize' response[0m
+2024.08.05 04:50:58 WARN  Retrying connection to the build server scala-cli[0m
+2024.08.05 04:50:58 INFO  Running BSP server List(/home/kasun_mendis/.local/share/coursier/bin/.scala-cli.aux, bsp, --json-options, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/.scala-build/ide-options-v2.json, --json-launcher-options, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/.scala-build/ide-launcher-options.json, --envs-file, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/.scala-build/ide-envs.json, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7)[0m
+2024.08.05 04:50:58 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/.metals/bsp.trace.json or /home/kasun_mendis/.cache/metals/bsp.trace.json[0m
+2024.08.05 04:50:58 INFO  BSP server: Starting compilation server[0m
+2024.08.05 04:51:10 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:51:10 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:51:10 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:51:12 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:51:12 WARN  no build target for: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala[0m
+2024.08.05 04:51:12 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:51:12 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:51:12 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:51:13 WARN  no build target for: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala[0m
+2024.08.05 04:51:13 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:51:13 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:51:13 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:51:13 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:51:13 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:51:13 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:51:15 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:51:15 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:51:15 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:51:15 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:51:17 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:51:17 WARN  no build target for: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala[0m
+2024.08.05 04:51:17 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:51:17 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:51:17 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:51:17 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:51:18 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:51:18 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:51:18 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:51:19 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:51:19 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:51:19 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:51:20 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:51:20 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:51:20 WARN  no build target for: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala[0m
+2024.08.05 04:51:25 INFO  time: Connected to build server in 1m27s[0m
+2024.08.05 04:51:25 INFO  Connected to Build server: scala-cli v1.3.2[0m
+2024.08.05 04:51:26 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:51:26 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 04:51:29 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:51:29 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:51:29 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 04:51:29 INFO  time: Imported build in 4.42s[0m
+2024.08.05 04:51:29 INFO  running doctor check[0m
+2024.08.05 04:51:29 INFO  java targets: 22001239_Practical_7_f4dd477a3a, 22001239_Practical_7_f4dd477a3a-test[0m
+2024.08.05 04:51:30 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 04:51:30 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.51s[0m
+2024.08.05 04:51:30 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 04:51:31 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.36s[0m
+Aug 05, 2024 4:51:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 158
+2024.08.05 04:51:33 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 04:51:33 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.43s[0m
+2024.08.05 04:51:35 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 04:51:35 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.36s[0m
+2024.08.05 04:51:36 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 04:51:36 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.98s[0m
+2024.08.05 04:51:38 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.[0m
+2024.08.05 04:51:39 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 04:51:39 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.52s[0m
+2024.08.05 04:51:41 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 04:51:41 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.6s[0m
+2024.08.05 04:51:43 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 04:51:43 INFO  time: indexed workspace in 14s[0m
+2024.08.05 04:51:43 INFO  Deduplicating compilation of 22001239_Practical_7_f4dd477a3a from bsp client 'scala-cli 1.3.2' (since 19.239s)[0m
+2024.08.05 04:51:43 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 04:51:47 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 3.46s[0m
+2024.08.05 04:51:47 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 04:51:50 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 2.13s[0m
+2024.08.05 04:51:56 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 04:51:58 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 1.37s[0m
+2024.08.05 04:52:17 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 04:52:18 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 1.1s[0m
+2024.08.05 04:52:24 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 04:52:24 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.82s[0m
+2024.08.05 04:52:42 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 04:52:42 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.67s[0m
+Aug 05, 2024 4:52:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 347
+2024.08.05 04:52:54 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 04:52:55 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 1.26s[0m
+2024.08.05 04:53:26 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 04:53:26 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.85s[0m
+2024.08.05 04:53:31 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 04:53:31 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.58s[0m
+2024.08.05 04:53:41 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 04:53:41 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.7s[0m
+2024.08.05 04:53:44 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 04:53:44 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.64s[0m
+2024.08.05 04:53:46 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 04:53:46 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.78s[0m
+2024.08.05 04:53:48 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 04:53:48 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.78s[0m
+2024.08.05 04:53:53 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 04:53:53 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.65s[0m
+2024.08.05 04:53:55 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 04:53:55 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.49s[0m
+2024.08.05 04:53:59 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 04:53:59 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.76s[0m
+2024.08.05 04:54:03 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 04:54:03 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.44s[0m
+2024.08.05 04:54:05 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 04:54:05 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.85s[0m
+2024.08.05 04:54:08 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 04:54:08 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.56s[0m
+2024.08.05 04:54:16 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 04:54:16 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.4s[0m
+Aug 05, 2024 4:54:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 760
+2024.08.05 04:54:20 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 04:54:20 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.41s[0m
+2024.08.05 04:54:24 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 04:54:24 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.4s[0m
+2024.08.05 04:54:36 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 04:54:36 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.8s[0m
+2024.08.05 04:54:38 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 04:54:38 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.4s[0m
+2024.08.05 04:54:42 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 04:54:42 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.52s[0m
+2024.08.05 04:54:44 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 04:54:44 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.45s[0m
+2024.08.05 04:54:45 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 04:54:45 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.48s[0m
+2024.08.05 04:55:06 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 04:55:06 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.49s[0m
+2024.08.05 05:00:05 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:00:05 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.54s[0m
+2024.08.05 05:00:08 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:00:08 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.48s[0m
+2024.08.05 05:00:12 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:00:12 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.49s[0m
+2024.08.05 05:00:15 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:00:15 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.38s[0m
+2024.08.05 05:00:24 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:00:24 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.54s[0m
+2024.08.05 05:00:47 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:00:47 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.37s[0m
+2024.08.05 05:01:04 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:01:04 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.38s[0m
+2024.08.05 05:01:05 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:01:05 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.73s[0m
+2024.08.05 05:01:06 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:01:06 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.49s[0m
+2024.08.05 05:01:10 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:01:10 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.63s[0m
+2024.08.05 05:01:22 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:01:22 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.32s[0m
+Aug 05, 2024 5:02:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1268
+2024.08.05 05:02:33 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:02:33 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.46s[0m
+Aug 05, 2024 5:03:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1334
+2024.08.05 05:03:24 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:03:24 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.52s[0m
+2024.08.05 05:03:25 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:03:25 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.36s[0m
+2024.08.05 05:03:31 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:03:31 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.35s[0m
+2024.08.05 05:03:34 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:03:34 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.4s[0m
+2024.08.05 05:03:42 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:03:42 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.4s[0m
+2024.08.05 05:03:47 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:03:47 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.36s[0m
+2024.08.05 05:03:51 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:03:51 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.41s[0m
+2024.08.05 05:03:54 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:03:54 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.39s[0m
+2024.08.05 05:03:57 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:03:57 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.38s[0m
+2024.08.05 05:03:59 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:03:59 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.41s[0m
+2024.08.05 05:04:21 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:04:21 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.5s[0m
+2024.08.05 05:04:22 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:04:22 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.32s[0m
+2024.08.05 05:04:24 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:04:24 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.46s[0m
+2024.08.05 05:04:29 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:04:29 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.48s[0m
+2024.08.05 05:04:32 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:04:32 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.37s[0m
+2024.08.05 05:04:40 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:04:40 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.38s[0m
+2024.08.05 05:04:44 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:04:44 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.33s[0m
+2024.08.05 05:04:48 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:04:48 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.33s[0m
+2024.08.05 05:04:50 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:04:50 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.32s[0m
+Aug 05, 2024 5:04:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "textDocument/didChange",
+  "params": {
+    "textDocument": {
+      "version": 389,
+      "uri": "file:///mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS%202204%20-%20Functional%20Programming/Practicals%20-%20Viva/22001239_Practical_7/filterEvenNumbers.scala"
+    },
+    "contentChanges": [
+      {
+        "text": "\nobject filterEvenNumbers{\n    def fiterEvenNumbers(list[Int]):List[Int]\u003d{\n        val even \u003d list.filter((x:Int)\u003d\u003ex%2)\n    }\n\n    def main(args: Array[String]):Unit\u003d{\n        val number: List[Int] \u003d List(1,2,3,4,5,6,7,8,9,10)\n        val output: List[Int] \u003d filterEvenNumbers(numbers)\n        print(output)\n    }\n}"
+      }
+    ]
+  }
+}
+java.lang.IllegalArgumentException: -1 is not a valid offset, allowed [0..315]
+	at scala.meta.internal.inputs.InternalInput.offsetToLine(InternalInput.scala:54)
+	at scala.meta.internal.inputs.InternalInput.offsetToLine$(InternalInput.scala:48)
+	at scala.meta.inputs.Input$VirtualFile.offsetToLine(Input.scala:86)
+	at scala.meta.inputs.Position$Range.startLine$lzycompute(Position.scala:39)
+	at scala.meta.inputs.Position$Range.startLine(Position.scala:39)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionMetaPosition.toLsp(ScalametaCommonEnrichments.scala:77)
+	at scala.meta.internal.parsing.TokenEditDistance$Diff.$anonfun$toRevised$8(TokenEditDistance.scala:310)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.TokenEditDistance$Diff.toRevised(TokenEditDistance.scala:241)
+	at scala.meta.internal.metals.Diagnostics.toFreshDiagnostic(Diagnostics.scala:283)
+	at scala.meta.internal.metals.Diagnostics.$anonfun$publishDiagnostics$2(Diagnostics.scala:239)
+	at scala.meta.internal.metals.Diagnostics.$anonfun$publishDiagnostics$2$adapted(Diagnostics.scala:238)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterable.foreach(Iterable.scala:935)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:238)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:203)
+	at scala.meta.internal.metals.Diagnostics.didChange(Diagnostics.scala:138)
+	at scala.meta.internal.metals.MetalsLspService.didChange(MetalsLspService.scala:869)
+	at scala.meta.internal.metals.ProjectMetalsLspService.didChange(ProjectMetalsLspService.scala:242)
+	at scala.meta.internal.metals.WorkspaceLspService.didChange(WorkspaceLspService.scala:405)
+	at scala.meta.metals.lsp.DelegatingScalaService.didChange(DelegatingScalaService.scala:50)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+Aug 05, 2024 5:04:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1882
+2024.08.05 05:04:56 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:04:56 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.37s[0m
+Aug 05, 2024 5:04:58 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Aug 05, 2024 5:08:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1913
+2024.08.05 05:08:05 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:08:05 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.68s[0m
+2024.08.05 05:08:06 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:08:08 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 1.58s[0m
+2024.08.05 05:08:08 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:08:09 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.79s[0m
+2024.08.05 05:08:53 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:08:53 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.56s[0m
+2024.08.05 05:09:12 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:09:12 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.32s[0m
+2024.08.05 05:09:41 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:09:41 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.3s[0m
+2024.08.05 05:10:05 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:10:08 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 3.05s[0m
+2024.08.05 05:12:30 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:12:30 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.83s[0m
+Aug 05, 2024 5:13:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2171
+2024.08.05 05:13:29 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:13:30 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 1.34s[0m
+2024.08.05 05:13:58 ERROR Failed to tokenize input for semantic tokens for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala
+scala.meta.tokenizers.TokenizeException: <input>:9: error: Non-zero integral values may not have a leading zero.
+        val numbers: List[Int] = List(01,2,3,4,5,6,7,8,9,10)
+                                      ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.setNumberInt$1(LegacyScanner.scala:786)
+	at scala.meta.internal.tokenizers.LegacyScanner.setNumberInteger$1(LegacyScanner.scala:797)
+	at scala.meta.internal.tokenizers.LegacyScanner.getNumber(LegacyScanner.scala:811)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchZero$1(LegacyScanner.scala:320)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:323)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:561)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+[0m
+2024.08.05 05:14:00 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:14:00 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.64s[0m
+2024.08.05 05:16:46 INFO  running doctor check[0m
+2024.08.05 05:16:46 INFO  java targets: 22001239_Practical_7_f4dd477a3a, 22001239_Practical_7_f4dd477a3a-test[0m
+2024.08.05 05:16:46 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
+2024.08.05 05:16:48 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 1.18s[0m
+2024.08.05 05:16:51 INFO  time: indexed workspace in 4.36s[0m
+2024.08.05 05:16:51 WARN  no build target for: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala[0m
+2024.08.05 05:16:51 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 05:16:51 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 05:17:02 INFO  Shutting down server[0m
+2024.08.05 05:17:02 INFO  shutting down Metals[0m
+2024.08.05 05:17:02 INFO  Shut down connection with build server.[0m
+2024.08.05 05:17:02 INFO  Exiting server[0m
+2024.08.05 05:17:18 INFO  Started: Metals version 1.3.4 in folders '/mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7' for client Visual Studio Code 1.92.0.[0m
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@28c075de]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@1e7f6691]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@28c075de]
+2024.08.05 05:17:20 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.[0m
+2024.08.05 05:17:21 INFO  Attempting to connect to the build server...[0m
+2024.08.05 05:17:21 INFO  Running BSP server List(/home/kasun_mendis/.local/share/coursier/bin/.scala-cli.aux, bsp, --json-options, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/.scala-build/ide-options-v2.json, --json-launcher-options, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/.scala-build/ide-launcher-options.json, --envs-file, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/.scala-build/ide-envs.json, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7)[0m
+2024.08.05 05:17:21 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/.metals/bsp.trace.json or /home/kasun_mendis/.cache/metals/bsp.trace.json[0m
+2024.08.05 05:17:23 INFO  time: Connected to build server in 2.11s[0m
+2024.08.05 05:17:23 INFO  Connected to Build server: scala-cli v1.3.2[0m
+2024.08.05 05:17:23 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterEvenNumbers/filterEvenNumbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 05:17:23 INFO  time: Imported build in 0.14s[0m
+2024.08.05 05:17:26 INFO  running doctor check[0m
+2024.08.05 05:17:26 INFO  java targets: 22001239_Practical_7_f4dd477a3a, 22001239_Practical_7_f4dd477a3a-test[0m
+2024.08.05 05:17:30 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.[0m
+2024.08.05 05:17:30 INFO  time: indexed workspace in 4.98s[0m
