@@ -1,4 +1,4 @@
-object FilterPrime {
+object filterPrimeNmbers {
   def isPrime(n: Int): Boolean = {
     if (n <= 1) false
     else if (n == 2) true
