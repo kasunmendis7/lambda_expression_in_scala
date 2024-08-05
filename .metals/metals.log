@@ -698,3 +698,9 @@ WARNING: Unmatched cancel notification for request id 2753
 2024.08.05 06:19:13 INFO  time: indexed workspace in 6.5s[0m
 2024.08.05 06:19:25 INFO  compiling 22001239_practical_7_f4dd477a3a (1 scala source)[0m
 2024.08.05 06:19:25 INFO  time: compiled 22001239_Practical_7_f4dd477a3a in 0.32s[0m
+2024.08.05 06:22:38 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterPrime/filterPrimeNmbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 06:22:39 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/filterPrime/filterPrimeNmbers.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.05 06:22:39 INFO  compiling 22001239_practical_7_f4dd477a3a (3 scala sources)[0m
+2024.08.05 06:22:40 INFO  running doctor check[0m
+2024.08.05 06:22:40 INFO  java targets: 22001239_Practical_7_f4dd477a3a, 22001239_Practical_7_f4dd477a3a-test[0m
+2024.08.05 06:22:42 INFO  time: indexed workspace in 3.63s[0m
