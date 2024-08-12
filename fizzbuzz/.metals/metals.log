@@ -1,0 +1,649 @@
+2024.08.12 09:21:50 INFO  Started: Metals version 1.3.5 in folders '/mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz' for client Visual Studio Code 1.92.1.[0m
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@d09153d]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@246e5f2]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@d09153d]
+2024.08.12 09:21:51 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.[0m
+2024.08.12 09:21:52 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+Aug 12, 2024 9:21:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Aug 12, 2024 9:21:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+Aug 12, 2024 9:21:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+2024.08.12 09:21:51 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.12 09:21:53 INFO  Running List(/home/kasun_mendis/.local/share/coursier/bin/scala-cli, setup-ide, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz)[0m
+2024.08.12 09:21:53 INFO  Attempting to connect to the build server...[0m
+2024.08.12 09:21:53 INFO  Running BSP server List(/home/kasun_mendis/.local/share/coursier/bin/.scala-cli.aux, bsp, --json-options, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/.scala-build/ide-options-v2.json, --json-launcher-options, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/.scala-build/ide-launcher-options.json, --envs-file, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/.scala-build/ide-envs.json, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz)[0m
+2024.08.12 09:21:53 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/.metals/bsp.trace.json or /home/kasun_mendis/.cache/metals/bsp.trace.json[0m
+2024.08.12 09:21:54 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.12 09:21:54 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+Aug 12, 2024 9:21:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+2024.08.12 09:21:54 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.12 09:21:54 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.12 09:21:54 WARN  no build target for: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 09:21:54 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+Aug 12, 2024 9:21:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 20
+Aug 12, 2024 9:21:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23
+Aug 12, 2024 9:21:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21
+2024.08.12 09:21:54 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.12 09:21:54 ERROR /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:72)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitMember(ScalaToplevelMtags.scala:709)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:247)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:84)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:595)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:693)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:690)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:690)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:952)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+[0m
+2024.08.12 09:21:54 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.12 09:21:55 INFO  time: Connected to build server in 1.63s[0m
+2024.08.12 09:21:55 INFO  Connected to Build server: scala-cli v1.3.2[0m
+2024.08.12 09:21:55 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.12 09:21:55 INFO  time: Imported build in 0.13s[0m
+2024.08.12 09:21:55 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.12 09:21:55 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.12 09:21:56 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 09:21:55 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.12 09:21:57 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.12 09:21:57 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.12 09:21:57 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.12 09:21:57 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.12 09:21:58 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.12 09:21:58 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 09:21:58 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+Aug 12, 2024 9:21:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 52
+2024.08.12 09:21:58 WARN  Could not find semantic tokens for: file:///mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS%202204%20-%20Functional%20Programming/Practicals%20-%20Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 09:21:59 WARN  no build target for: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 09:21:59 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.12 09:22:00 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.12 09:22:00 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.12 09:22:00 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.12 09:22:00 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.12 09:22:01 WARN  no build target for: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 09:22:01 INFO  running doctor check[0m
+2024.08.12 09:22:01 INFO  java targets: fizzbuzz_f4dd477a3a-test, fizzbuzz_f4dd477a3a[0m
+2024.08.12 09:22:07 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.[0m
+2024.08.12 09:22:10 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 09:22:11 INFO  time: compiled fizzbuzz_f4dd477a3a in 1.28s[0m
+2024.08.12 09:22:11 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+Aug 12, 2024 9:22:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 137
+2024.08.12 09:22:14 INFO  time: compiled fizzbuzz_f4dd477a3a in 2.33s[0m
+2024.08.12 09:22:14 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 09:22:15 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.74s[0m
+2024.08.12 09:22:17 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 09:22:17 INFO  time: indexed workspace in 21s[0m
+2024.08.12 09:22:17 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.83s[0m
+2024.08.12 09:22:18 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 09:22:18 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.87s[0m
+2024.08.12 09:22:19 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 09:22:19 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.4s[0m
+2024.08.12 09:22:21 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 09:22:21 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.38s[0m
+2024.08.12 09:22:24 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 09:22:25 INFO  time: compiled fizzbuzz_f4dd477a3a in 1.44s[0m
+2024.08.12 09:22:29 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 09:22:29 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.52s[0m
+2024.08.12 09:22:31 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 09:22:31 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.47s[0m
+2024.08.12 09:22:33 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 09:22:33 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.77s[0m
+2024.08.12 09:22:36 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 09:22:36 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.11s[0m
+2024.08.12 09:22:37 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 09:22:37 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 09:22:37 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 09:22:39 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 09:22:40 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 09:22:40 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.18s[0m
+2024.08.12 09:22:40 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 09:22:41 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 09:22:42 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 09:22:42 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 09:22:43 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 09:22:43 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.11s[0m
+2024.08.12 09:22:43 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 09:22:45 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 09:22:46 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 09:22:46 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 09:22:47 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 09:22:48 ERROR /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:72)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:500)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:84)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:595)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:693)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:690)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:690)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:952)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+[0m
+2024.08.12 09:22:48 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 09:22:48 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.2s[0m
+2024.08.12 09:22:49 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 09:22:50 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 09:22:51 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 09:22:51 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.15s[0m
+2024.08.12 09:22:51 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 09:22:52 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 09:22:52 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 09:22:53 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 09:22:54 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 09:22:55 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 09:22:57 INFO  time: compiled fizzbuzz_f4dd477a3a in 1.55s[0m
+2024.08.12 09:22:57 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 09:22:58 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 09:22:59 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 09:23:00 INFO  time: compiled fizzbuzz_f4dd477a3a in 1.21s[0m
+2024.08.12 09:23:01 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 09:23:09 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 09:38:12 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 09:38:12 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 09:38:12 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.53s[0m
+2024.08.12 09:38:13 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 09:46:41 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 10:07:51 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 10:12:56 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 10:47:29 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:02:48 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:02:58 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:03:02 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:03:02 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:03:03 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:03:03 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.41s[0m
+2024.08.12 11:03:04 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:03:05 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:03:06 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:03:06 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.36s[0m
+2024.08.12 11:03:06 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:03:07 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:03:08 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:03:08 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.29s[0m
+2024.08.12 11:03:09 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:03:10 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:03:13 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:03:13 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:03:13 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.28s[0m
+2024.08.12 11:03:14 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:03:16 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:03:16 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:03:18 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:03:18 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.29s[0m
+2024.08.12 11:03:18 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:03:22 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:03:24 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:03:49 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:05:04 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:05:25 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:05:40 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:05:47 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:05:48 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:05:50 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:05:57 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:05:57 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:05:57 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.21s[0m
+2024.08.12 11:05:57 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:05:59 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:06:03 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:06:03 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:06:03 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.14s[0m
+2024.08.12 11:06:03 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:06:06 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:06:07 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:06:07 INFO  time: compiled fizzbuzz_f4dd477a3a in 98ms[0m
+2024.08.12 11:06:08 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:06:08 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:06:09 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:06:09 INFO  time: compiled fizzbuzz_f4dd477a3a in 97ms[0m
+2024.08.12 11:06:10 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:06:15 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:06:17 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:06:17 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:06:17 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:06:18 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:06:19 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:06:19 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.33s[0m
+2024.08.12 11:06:19 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:06:20 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:06:21 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:06:21 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.27s[0m
+2024.08.12 11:06:21 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:06:22 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:06:22 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.4s[0m
+2024.08.12 11:06:23 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:06:42 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:06:44 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:06:45 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:06:46 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:06:46 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:06:46 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:06:46 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.5s[0m
+2024.08.12 11:06:47 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:06:47 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:06:48 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:06:47 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.25s[0m
+2024.08.12 11:06:48 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:06:49 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:06:49 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:06:49 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:06:51 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:06:52 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:06:52 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:06:52 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.33s[0m
+2024.08.12 11:06:52 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:06:53 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:06:53 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.33s[0m
+2024.08.12 11:06:53 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:06:53 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:06:57 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:07:00 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:07:01 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:07:24 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:07:24 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:07:24 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.33s[0m
+2024.08.12 11:07:25 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:07:45 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:07:47 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:07:48 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:07:49 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:07:51 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:07:51 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:07:51 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.55s[0m
+2024.08.12 11:07:51 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:07:52 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:07:52 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:07:52 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.88s[0m
+2024.08.12 11:07:53 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:07:53 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:07:53 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.47s[0m
+2024.08.12 11:07:53 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:07:54 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:07:55 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:07:55 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:07:56 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:07:56 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.12s[0m
+2024.08.12 11:08:01 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:08:03 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:08:04 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:08:05 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:08:05 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:08:06 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:08:07 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:08:07 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:08:08 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:08:10 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:08:10 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:08:10 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.12s[0m
+2024.08.12 11:08:11 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:08:11 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:08:12 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:08:12 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:08:13 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:08:13 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:08:14 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:08:14 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:08:15 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:08:15 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:08:16 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:08:16 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.13s[0m
+2024.08.12 11:08:17 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:08:22 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:08:23 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:08:24 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:08:25 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:08:25 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.32s[0m
+2024.08.12 11:08:25 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:08:27 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:08:28 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:08:28 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.27s[0m
+2024.08.12 11:08:28 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:08:32 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:08:33 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:08:33 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:08:33 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.64s[0m
+2024.08.12 11:08:34 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:08:37 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:08:38 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:08:38 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:08:41 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:08:50 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:08:56 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:08:57 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:08:58 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:12 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:15 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:16 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:16 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:17 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:19 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:20 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:21 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:24 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:28 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:28 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:29 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:29 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:31 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:31 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:32 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:33 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:33 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:34 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:34 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:35 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:36 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:38 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:38 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:09:38 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.2s[0m
+2024.08.12 11:09:38 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:38 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:40 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:40 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:41 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:42 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:09:42 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.14s[0m
+2024.08.12 11:09:42 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:43 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:44 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:09:44 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.15s[0m
+2024.08.12 11:09:44 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:48 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:49 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:09:49 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.14s[0m
+2024.08.12 11:09:50 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:52 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:52 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:53 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:55 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:57 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:57 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:58 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:58 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:58 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:09:59 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:10:00 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:10:00 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:10:01 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:10:03 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:10:05 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:10:05 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:10:05 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.15s[0m
+2024.08.12 11:10:05 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:10:06 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:10:07 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:10:08 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:10:08 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:10:08 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.14s[0m
+2024.08.12 11:10:09 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:10:10 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:10:10 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:10:11 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:10:12 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:10:12 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:10:13 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:10:13 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:10:14 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:10:14 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:02 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:11:02 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:02 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.2s[0m
+2024.08.12 11:11:02 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:05 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:06 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:11:06 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.21s[0m
+2024.08.12 11:11:08 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:09 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:11:09 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:09 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.15s[0m
+2024.08.12 11:11:09 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:10 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:10 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+Aug 12, 2024 11:11:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1427
+2024.08.12 11:11:12 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:12 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+Aug 12, 2024 11:11:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1441
+2024.08.12 11:11:13 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:14 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:15 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:11:15 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.12s[0m
+2024.08.12 11:11:15 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:18 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:19 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:11:19 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.17s[0m
+2024.08.12 11:11:19 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:20 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:20 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:21 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:11:21 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.16s[0m
+2024.08.12 11:11:22 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:23 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:23 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:24 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:25 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:11:25 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.24s[0m
+2024.08.12 11:11:26 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:28 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:29 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:11:29 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.2s[0m
+2024.08.12 11:11:30 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:30 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:31 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:11:31 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.2s[0m
+Aug 12, 2024 11:11:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1550
+2024.08.12 11:11:32 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:33 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:11:33 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.16s[0m
+2024.08.12 11:11:33 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:34 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:11:34 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.16s[0m
+2024.08.12 11:11:35 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:35 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:35 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+Aug 12, 2024 11:11:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1588
+2024.08.12 11:11:36 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:37 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:38 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:39 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:11:39 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.14s[0m
+2024.08.12 11:11:39 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:40 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:41 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:11:41 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.11s[0m
+2024.08.12 11:11:41 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:43 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:44 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:11:44 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.27s[0m
+2024.08.12 11:11:45 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:45 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:45 WARN  Could not find semantic tokens for: file:///mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS%202204%20-%20Functional%20Programming/Practicals%20-%20Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:45 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:45 WARN  Could not find semantic tokens for: file:///mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS%202204%20-%20Functional%20Programming/Practicals%20-%20Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:46 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:46 WARN  Could not find semantic tokens for: file:///mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS%202204%20-%20Functional%20Programming/Practicals%20-%20Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:46 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:48 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:49 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:49 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:50 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:50 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:51 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:11:51 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.21s[0m
+2024.08.12 11:11:52 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:52 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:11:52 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.16s[0m
+2024.08.12 11:11:53 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:54 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:11:54 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:54 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.42s[0m
+2024.08.12 11:11:54 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:55 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:56 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:11:56 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.12s[0m
+2024.08.12 11:11:56 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:57 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+Aug 12, 2024 11:11:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1775
+2024.08.12 11:11:57 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:57 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:58 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:11:58 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.21s[0m
+2024.08.12 11:11:59 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:11:59 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:12:00 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:12:00 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.13s[0m
+2024.08.12 11:12:01 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:12:01 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:12:02 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:12:02 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.15s[0m
+2024.08.12 11:12:03 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:12:05 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:12:06 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:12:06 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.16s[0m
+2024.08.12 11:12:06 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:12:07 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:12:08 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:12:08 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.14s[0m
+2024.08.12 11:12:08 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:12:11 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:12:12 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:12:12 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.32s[0m
+2024.08.12 11:12:12 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:12:14 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:12:15 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:12:15 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.14s[0m
+2024.08.12 11:12:15 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:12:16 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:12:17 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:12:17 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.11s[0m
+2024.08.12 11:12:17 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:12:25 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+Aug 12, 2024 11:12:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1892
+2024.08.12 11:12:26 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:12:26 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:12:27 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:12:27 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.12s[0m
+2024.08.12 11:12:27 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:12:28 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:12:29 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:12:30 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:12:30 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.12s[0m
+2024.08.12 11:12:30 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:12:31 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:12:31 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:12:31 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:12:32 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:12:32 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.12s[0m
+2024.08.12 11:12:33 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:12:36 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:12:37 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:12:37 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.18s[0m
+2024.08.12 11:12:38 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:12:40 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+Aug 12, 2024 11:12:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1980
+2024.08.12 11:12:41 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:12:41 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:12:42 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:12:42 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.14s[0m
+2024.08.12 11:12:42 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:12:43 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:12:43 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:12:43 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:12:43 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:12:44 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:12:44 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:13:21 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:13:24 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:13:24 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:13:24 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:13:26 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:13:26 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.17s[0m
+2024.08.12 11:13:27 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:13:28 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:13:29 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:13:29 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.13s[0m
+2024.08.12 11:13:29 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:13:31 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:13:34 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:13:35 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:13:35 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:13:35 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.25s[0m
+2024.08.12 11:13:35 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:13:36 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:13:36 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.12s[0m
+2024.08.12 11:13:37 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:13:42 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:13:42 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:13:42 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:13:42 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+Aug 12, 2024 11:13:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2092
+2024.08.12 11:13:44 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:13:44 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.13s[0m
+2024.08.12 11:13:44 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:13:44 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:13:45 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:13:45 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:13:46 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:13:46 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:13:46 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.84s[0m
+2024.08.12 11:13:55 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:13:55 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.48s[0m
+2024.08.12 11:13:56 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/fizzbuzz/FizzBuzz.scala[0m
+2024.08.12 11:13:56 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:13:56 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.67s[0m
+2024.08.12 11:13:57 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:13:57 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.47s[0m
+2024.08.12 11:14:00 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:14:00 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.35s[0m
+Aug 12, 2024 11:14:04 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.08.12 11:14:36 INFO  compiling fizzbuzz_f4dd477a3a (1 scala source)[0m
+2024.08.12 11:14:36 INFO  time: compiled fizzbuzz_f4dd477a3a in 0.32s[0m
+2024.08.12 11:15:52 INFO  Shutting down server[0m
+2024.08.12 11:15:52 INFO  shutting down Metals[0m
+2024.08.12 11:15:52 INFO  Shut down connection with build server.[0m
+2024.08.12 11:15:52 INFO  Exiting server[0m
