@@ -399,3 +399,7 @@ WARNING: Unmatched cancel notification for request id 1985
 2024.08.19 10:10:23 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.12s[0m
 2024.08.19 10:10:25 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
 2024.08.19 10:10:25 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.43s[0m
+2024.08.19 10:35:55 INFO  Shutting down server[0m
+2024.08.19 10:35:55 INFO  shutting down Metals[0m
+2024.08.19 10:35:55 INFO  Shut down connection with build server.[0m
+2024.08.19 10:35:55 INFO  Exiting server[0m
