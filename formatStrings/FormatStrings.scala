@@ -32,11 +32,11 @@ object q3 {
                         }
       case "Saman"     => formatNames("Saman")(toLower)
       case "Kumara"    => formatNames("Kumara") { name =>
-                          val (first, last) = (name.init, name.last)
-                          toLower(first) + toUpper(last.toString)
+                          val (first, middle, last) = (name.head.toString, name.slice(1, name.length - 1), name.last.toString)
+                          toUpper(first) + toLower(middle) + toUpper(last)
                         }
     }
-    
     formattedNames.foreach(println)
   }
 }
+
