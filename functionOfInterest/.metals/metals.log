@@ -1,0 +1,401 @@
+2024.08.19 09:55:05 INFO  Started: Metals version 1.3.5 in folders '/mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest' for client Visual Studio Code 1.92.2.[0m
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@24ee419e]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@d09153d]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@24ee419e]
+2024.08.19 09:55:06 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.[0m
+Aug 19, 2024 9:55:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+2024.08.19 09:55:06 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:08 INFO  Running List(/home/kasun_mendis/.local/share/coursier/bin/scala-cli, setup-ide, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest)[0m
+2024.08.19 09:55:09 INFO  Attempting to connect to the build server...[0m
+2024.08.19 09:55:09 INFO  Running BSP server List(/home/kasun_mendis/.local/share/coursier/bin/.scala-cli.aux, bsp, --json-options, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/.scala-build/ide-options-v2.json, --json-launcher-options, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/.scala-build/ide-launcher-options.json, --envs-file, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/.scala-build/ide-envs.json, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest)[0m
+2024.08.19 09:55:08 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/.metals/bsp.trace.json or /home/kasun_mendis/.cache/metals/bsp.trace.json[0m
+2024.08.19 09:55:10 INFO  BSP server: Starting compilation server[0m
+2024.08.19 09:55:11 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:11 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:11 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:11 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:11 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:11 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+Aug 19, 2024 9:55:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2024.08.19 09:55:11 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:11 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:11 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:11 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:11 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:11 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:11 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:11 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:11 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:11 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:11 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:11 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:11 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:11 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+Aug 19, 2024 9:55:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40
+2024.08.19 09:55:12 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+Aug 19, 2024 9:55:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41
+2024.08.19 09:55:12 WARN  no build target for: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 09:55:12 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:12 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:12 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:12 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:12 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:12 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:12 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:12 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:12 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:12 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:12 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:12 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:12 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:12 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:12 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:12 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:12 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:12 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+Aug 19, 2024 9:55:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 67
+2024.08.19 09:55:13 WARN  no build target for: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 09:55:13 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:15 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:15 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:15 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:15 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:16 WARN  no build target for: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 09:55:26 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:28 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.19 09:55:43 INFO  BSP server: Error: java.util.concurrent.TimeoutException: Future timed out after [30 seconds][0m
+2024.08.19 09:55:43 INFO  BSP server: For more details, please see '/mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/.scala-build/stacktraces/1724041543-15398060105359651820.log'[0m
+2024.08.19 09:56:09 ERROR Timeout waiting for 'build/initialize' response[0m
+2024.08.19 09:56:09 WARN  Retrying connection to the build server scala-cli[0m
+2024.08.19 09:56:09 INFO  Running BSP server List(/home/kasun_mendis/.local/share/coursier/bin/.scala-cli.aux, bsp, --json-options, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/.scala-build/ide-options-v2.json, --json-launcher-options, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/.scala-build/ide-launcher-options.json, --envs-file, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/.scala-build/ide-envs.json, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest)[0m
+2024.08.19 09:56:09 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/.metals/bsp.trace.json or /home/kasun_mendis/.cache/metals/bsp.trace.json[0m
+2024.08.19 09:56:10 INFO  time: Connected to build server in 1m1s[0m
+2024.08.19 09:56:10 INFO  Connected to Build server: scala-cli v1.3.2[0m
+2024.08.19 09:56:11 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 09:56:14 INFO  time: Imported build in 3.98s[0m
+2024.08.19 09:56:15 INFO  running doctor check[0m
+2024.08.19 09:56:15 INFO  java targets: functionOfInterest_f4dd477a3a, functionOfInterest_f4dd477a3a-test[0m
+2024.08.19 09:56:15 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 09:56:15 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.42s[0m
+2024.08.19 09:56:20 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.[0m
+2024.08.19 09:56:23 INFO  time: indexed workspace in 8.55s[0m
+2024.08.19 09:57:26 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 09:57:26 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.37s[0m
+2024.08.19 09:57:27 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 09:57:27 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.78s[0m
+2024.08.19 09:57:35 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 09:57:35 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.45s[0m
+2024.08.19 09:57:37 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 09:57:40 INFO  time: compiled functionOfInterest_f4dd477a3a in 2.56s[0m
+2024.08.19 09:58:33 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+Aug 19, 2024 9:58:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 162
+2024.08.19 09:58:35 INFO  time: compiled functionOfInterest_f4dd477a3a in 1.54s[0m
+2024.08.19 09:58:35 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 09:58:35 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 09:58:35 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.21s[0m
+2024.08.19 09:58:37 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+Aug 19, 2024 9:58:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 183
+2024.08.19 09:58:37 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 09:58:38 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 09:58:38 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.14s[0m
+2024.08.19 09:58:39 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 09:58:57 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 09:59:00 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 09:59:00 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 09:59:01 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 09:59:01 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 09:59:02 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 09:59:02 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 09:59:03 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 09:59:03 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 09:59:05 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+Aug 19, 2024 9:59:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 361
+Aug 19, 2024 9:59:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 362
+Aug 19, 2024 9:59:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 367
+Aug 19, 2024 9:59:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 514
+Aug 19, 2024 9:59:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 531
+Aug 19, 2024 9:59:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 581
+Aug 19, 2024 9:59:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 643
+Aug 19, 2024 9:59:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 652
+2024.08.19 09:59:37 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 09:59:37 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 09:59:37 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 09:59:38 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 09:59:40 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 09:59:43 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 09:59:43 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 09:59:53 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 09:59:53 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 09:59:56 INFO  time: compiled functionOfInterest_f4dd477a3a in 2.27s[0m
+2024.08.19 09:59:56 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:00:02 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:00:27 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:00:31 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:00:35 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:00:36 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:00:37 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:00:37 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:00:38 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:00:38 INFO  time: compiled functionOfInterest_f4dd477a3a in 1.67s[0m
+2024.08.19 10:00:38 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:00:38 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:00:39 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:00:39 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:00:40 INFO  time: compiled functionOfInterest_f4dd477a3a in 1.62s[0m
+2024.08.19 10:00:41 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:00:40 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:00:41 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:00:42 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:00:42 INFO  time: compiled functionOfInterest_f4dd477a3a in 1.3s[0m
+Aug 19, 2024 10:00:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 794
+2024.08.19 10:00:42 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:00:43 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:00:44 INFO  time: compiled functionOfInterest_f4dd477a3a in 1.07s[0m
+2024.08.19 10:00:44 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:00:44 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:00:45 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.68s[0m
+2024.08.19 10:00:45 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:00:52 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:00:53 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:00:53 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:00:53 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.67s[0m
+2024.08.19 10:00:54 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:00:54 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:00:54 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.57s[0m
+2024.08.19 10:00:55 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:01:01 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:01:02 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:01:03 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:01:04 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:01:04 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.15s[0m
+2024.08.19 10:01:04 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:01:05 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:01:06 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+Aug 19, 2024 10:01:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 881
+2024.08.19 10:01:06 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:01:07 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:01:08 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:01:08 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.19s[0m
+2024.08.19 10:01:08 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:01:21 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:01:23 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:01:24 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:01:24 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.14s[0m
+2024.08.19 10:01:25 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:01:27 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:01:29 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:01:30 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:01:30 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:01:30 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:01:31 INFO  time: compiled functionOfInterest_f4dd477a3a in 1.08s[0m
+2024.08.19 10:01:31 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:01:32 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:01:32 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:01:33 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:01:33 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:01:33 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.93s[0m
+2024.08.19 10:01:34 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:01:34 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:01:34 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.6s[0m
+2024.08.19 10:01:43 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:01:46 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:01:47 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:01:48 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:01:49 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:01:49 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:01:50 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:01:50 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:01:51 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:01:52 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:01:52 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:01:52 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.6s[0m
+2024.08.19 10:01:53 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:01:53 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:01:53 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.55s[0m
+2024.08.19 10:01:54 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:01:58 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:02:16 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:02:21 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:02:26 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:02:30 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:02:31 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:02:31 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:02:32 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:02:32 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.51s[0m
+2024.08.19 10:02:33 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:02:36 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:02:37 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:02:37 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.12s[0m
+2024.08.19 10:02:37 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:02:38 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:02:38 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.14s[0m
+2024.08.19 10:02:39 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:02:40 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:02:40 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.14s[0m
+2024.08.19 10:02:40 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:02:40 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:02:41 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:02:41 INFO  time: compiled functionOfInterest_f4dd477a3a in 96ms[0m
+2024.08.19 10:02:42 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:02:43 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:02:43 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:02:43 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.2s[0m
+2024.08.19 10:02:43 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:02:44 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:02:44 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.14s[0m
+2024.08.19 10:02:48 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:02:50 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:02:50 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:02:51 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:02:51 INFO  time: compiled functionOfInterest_f4dd477a3a in 97ms[0m
+2024.08.19 10:02:51 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:02:53 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:02:53 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:02:55 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:02:55 INFO  time: compiled functionOfInterest_f4dd477a3a in 91ms[0m
+2024.08.19 10:02:55 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:02:56 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:02:56 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.6s[0m
+2024.08.19 10:02:57 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:03:10 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:03:10 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:03:10 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:03:11 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:03:12 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:03:12 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.52s[0m
+2024.08.19 10:03:27 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:03:27 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.52s[0m
+2024.08.19 10:03:32 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:03:36 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:03:50 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_7/functionOfInterest/FunctionOfInterest.scala[0m
+2024.08.19 10:03:50 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:03:50 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.38s[0m
+2024.08.19 10:03:55 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:03:55 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.36s[0m
+2024.08.19 10:04:03 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:04:03 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.37s[0m
+2024.08.19 10:04:04 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:04:04 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.35s[0m
+2024.08.19 10:04:36 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:04:36 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.39s[0m
+2024.08.19 10:04:39 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:04:39 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.38s[0m
+2024.08.19 10:04:42 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:04:42 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.35s[0m
+2024.08.19 10:04:43 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:04:43 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.35s[0m
+2024.08.19 10:04:59 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:04:59 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.44s[0m
+2024.08.19 10:05:01 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:05:01 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.42s[0m
+2024.08.19 10:05:14 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:05:14 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.45s[0m
+2024.08.19 10:05:22 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:05:22 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.54s[0m
+2024.08.19 10:05:23 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:05:23 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.43s[0m
+2024.08.19 10:05:28 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:05:28 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.4s[0m
+2024.08.19 10:05:34 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:05:34 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.44s[0m
+2024.08.19 10:05:39 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:05:39 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.39s[0m
+2024.08.19 10:05:41 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:05:41 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.4s[0m
+2024.08.19 10:05:45 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:05:45 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.52s[0m
+2024.08.19 10:05:46 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+Aug 19, 2024 10:05:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1738
+2024.08.19 10:05:46 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.81s[0m
+2024.08.19 10:05:49 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:05:49 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.35s[0m
+2024.08.19 10:06:01 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:06:01 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.37s[0m
+2024.08.19 10:06:17 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:06:17 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.37s[0m
+2024.08.19 10:06:19 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:06:19 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.33s[0m
+2024.08.19 10:06:21 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:06:21 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.29s[0m
+2024.08.19 10:06:25 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:06:25 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.34s[0m
+2024.08.19 10:06:45 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:06:45 INFO  time: compiled functionOfInterest_f4dd477a3a in 94ms[0m
+2024.08.19 10:06:46 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:06:46 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.24s[0m
+2024.08.19 10:06:50 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:06:50 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.29s[0m
+2024.08.19 10:06:53 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:06:53 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.1s[0m
+Aug 19, 2024 10:06:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1918
+2024.08.19 10:06:56 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:06:56 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.33s[0m
+2024.08.19 10:07:09 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:07:09 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.27s[0m
+2024.08.19 10:08:13 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:08:13 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.15s[0m
+2024.08.19 10:08:14 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:08:14 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.1s[0m
+Aug 19, 2024 10:08:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1985
+2024.08.19 10:08:19 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:08:19 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.12s[0m
+2024.08.19 10:08:24 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:08:24 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.12s[0m
+2024.08.19 10:08:25 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:08:25 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.12s[0m
+2024.08.19 10:08:40 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:08:40 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.11s[0m
+2024.08.19 10:08:42 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:08:42 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.11s[0m
+2024.08.19 10:08:43 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:08:43 INFO  time: compiled functionOfInterest_f4dd477a3a in 99ms[0m
+2024.08.19 10:08:46 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:08:46 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.11s[0m
+2024.08.19 10:08:48 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:08:48 INFO  time: compiled functionOfInterest_f4dd477a3a in 83ms[0m
+2024.08.19 10:08:55 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:08:55 INFO  time: compiled functionOfInterest_f4dd477a3a in 91ms[0m
+2024.08.19 10:08:57 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:08:57 INFO  time: compiled functionOfInterest_f4dd477a3a in 89ms[0m
+2024.08.19 10:08:58 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:08:58 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.11s[0m
+2024.08.19 10:08:59 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:08:59 INFO  time: compiled functionOfInterest_f4dd477a3a in 87ms[0m
+2024.08.19 10:09:00 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:09:00 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.79s[0m
+2024.08.19 10:09:26 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:09:26 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.42s[0m
+2024.08.19 10:09:29 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:09:29 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.51s[0m
+2024.08.19 10:10:13 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:10:13 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.18s[0m
+2024.08.19 10:10:18 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:10:18 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.1s[0m
+2024.08.19 10:10:21 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:10:21 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.17s[0m
+2024.08.19 10:10:23 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:10:23 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.12s[0m
+2024.08.19 10:10:25 INFO  compiling functionofinterest_f4dd477a3a (1 scala source)[0m
+2024.08.19 10:10:25 INFO  time: compiled functionOfInterest_f4dd477a3a in 0.43s[0m
